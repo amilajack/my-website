@@ -1,11 +1,11 @@
 module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://amilajack.github.io/my-website/',
-  baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'amilajack', // Usually your GitHub org/user name.
-  projectName: 'my-website', // Usually your repo name.
+  url: 'https://amilajack.github.io', // Your website URL
+  baseUrl: '/my-website/',
+  projectName: 'my-website',
+  organizationName: 'amilajack',
   themeConfig: {
     navbar: {
       title: 'My Site',
